@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+.custom-header {
+    background-color: white;
+    color: black;
+    height: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.custom-col-nav {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+}
+
+li {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* links */
+a {
+    color: black;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: black;
+}
+/* end of links */
+
+.navbar-collapse in
